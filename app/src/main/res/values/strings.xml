@@ -1,0 +1,4 @@
+<resources>
+        <string name="welcome_message" translatable="false">Bem-vindo ao meu aplicativo</string>
+
+</resources>
